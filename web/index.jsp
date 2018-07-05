@@ -12,5 +12,9 @@
   </head>
   <body>
   <h1>Teste</h1>
+  <form action="formtest" method="post">
+      <b>Campo1</b><input type="text" name="campo1">
+      <input type="submit" value="Enviar">
+  </form>
   </body>
 </html>
